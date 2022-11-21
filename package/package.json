@@ -1,0 +1,22 @@
+{
+  "name": "@max_biaggi/get-color",
+  "version": "1.0.0",
+  "description": "Get a color",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxwellEnemuo/color-npm-package.git"
+  },
+  "keywords": [
+    "HC"
+  ],
+  "author": "Maxwell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxwellEnemuo/color-npm-package/issues"
+  },
+  "homepage": "https://github.com/MaxwellEnemuo/color-npm-package#readme"
+}
